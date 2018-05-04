@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""c4d_redshift_mat_from_substance.py: Loads Substances from the c4d asset manager and connects them in a new redshift material."""
+"""c4d_redshift_mat_from_substance.py: Loads a Substance from the c4d substance asset manager and connects its channels in a new redshift material."""
 
 __author__      = "Bonsak Schieldrop"
 __copyright__   = "WTFPL, 2018, Racecar"
